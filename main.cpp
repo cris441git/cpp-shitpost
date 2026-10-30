@@ -2,7 +2,7 @@
 
 void next() {
     for (int y = 1; y <= 100; ++y) {
-     std::cout << "nt microsoft virus openai copilot rust gcc msvc wsl shit"
+     std::cout << "nt microsoft virus openai copilot rust gcc msvc wsl shit";
     }
 }
 
