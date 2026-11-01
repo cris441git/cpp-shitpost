@@ -1,4 +1,6 @@
 #include <iostream>
+#include <thread>
+#include <chrono>
 
 void next() {
     for (int y = 1; y <= 100; ++y) {
